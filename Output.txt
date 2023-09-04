@@ -1,0 +1,7 @@
+OUTPUT:
+         Enter Alice_residency_count:35
+         Enter_Bob_residency_count:21
+         Enter Alice_Daily_Painting_Wages:500
+         Enter Bob_Daily_Painting_Wages:500
+        The Total Wages of Alice: 17500.0
+        The Total Wages of Bob: 10500.0
